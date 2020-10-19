@@ -2,3 +2,10 @@ body {background-color: #ffcc66;}
 nav ul li {
     display: inline;
 }
+footer {
+    background-color: #FFF;
+    position:fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    }
