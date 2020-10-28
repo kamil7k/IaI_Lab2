@@ -1,0 +1,29 @@
+body {
+	background-color: #ffcc66;
+}
+nav ul li {
+    display: inline;
+}
+footer {
+    background-color: #FFF;
+    position:fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    }
+img {
+    width: 200px;
+    height: 200px;
+}
+
+iframe {
+     width: 100%;
+}
+
+p.adres_pwsz { 
+width: 100%;
+    padding: 20px; 
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+ }
