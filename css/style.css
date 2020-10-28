@@ -27,3 +27,9 @@ width: 100%;
     padding-bottom: 20px;
     padding-left: 20px;
  }
+a:hover
+{
+    background-color: yellow;
+    color: aquamarine;
+    transition: all 2s;
+}
